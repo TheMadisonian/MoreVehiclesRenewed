@@ -50,6 +50,7 @@ namespace MoreVehicles
                 CinematicCameraControllerPatch.GetVehicleWithName,
                 CinematicCameraControllerPatch.GetNearestVehicle,
                 EventManagerPatch.InvalidatePathsOnClosedRoads,
+                GuideManagerPatch.ServiceStep,
                 OutsideConnectionAIPatch.DummyTrafficProbability,
                 PathVisualizerPatch.AddPathsImpl,
                 ResidentAIPatch.DoRandomMove,
